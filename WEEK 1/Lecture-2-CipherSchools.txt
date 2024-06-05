@@ -1,0 +1,13 @@
+In this Lecture we learned about our overall path that is going to be through this session. We got to know that how much time we will devote to every topic.
+
+1) Javascript
+2) MERN Stack Intro
+3) React -1
+4) React -2
+5) Mini React Project
+6) Node.js + Express
+7) MongoDb
+8) User Authentication
+9) Error Handling
+10) Complete MERN Project
+11) Deploy
