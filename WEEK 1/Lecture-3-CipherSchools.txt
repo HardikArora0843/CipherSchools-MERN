@@ -1,0 +1,6 @@
+I learned about frontend and backend in this lesson, as well as how they function. Frontend and backend are related to databases, and there may be more than one backend and server. 
+
+
+We research frontend We explore Node for the backend of React, and mongoDb for the database in Express.
+
+
