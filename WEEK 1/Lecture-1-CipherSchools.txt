@@ -1,0 +1,8 @@
+In This Lecture i have learned how to download IDEs required during this session, which includes nodejs and VS Code.
+
+Also run some commands in terminal to check the correct version of nodejs and npm.
+
+1) node -v
+2) npm -v
+
+MERN - MongoDB, Express js, ReactJS, nodejs

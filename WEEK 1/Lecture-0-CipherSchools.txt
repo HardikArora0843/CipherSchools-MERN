@@ -1,0 +1,6 @@
+Overview 
+
+
+
+Building web apps with the MERN Stack and Full-Stack Development is a new method. MERN is an abbreviation that stands for Express.js, React.js, Node.js, and MongoDB. A NoSQL database called MongoDB uses flexible documents that resemble JSON to store data. A Node.js web application framework called Express.js is made specifically for creating reliable APIs. A JavaScript package called React.js is used to create user interfaces, particularly for single-page apps. A server-side platform called Node.js is based on the V8 JavaScript engine seen in Chrome. When combined, they offer a smooth working environment that enables developers to use JavaScript across the board. This stack of technologies is perfect for creating web apps that are high-performing and scalable. The MERN stack's widespread community support and popularity can be attributed to its open-source and modular design.
+
