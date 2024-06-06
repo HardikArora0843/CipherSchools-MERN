@@ -1,0 +1,14 @@
+1) Simple selector
+2) Combinator selector
+3) Pseudo-class selector
+4) Pseudo-element selector
+5) Attribute selector
+
+
+FOR COMBINATOR SELECTOR
+
+1) Descendent selector
+2) Child selector
+3) Adjacent sibling selector
+4) General sibling selector
+

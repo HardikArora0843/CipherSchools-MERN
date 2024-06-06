@@ -1,0 +1,39 @@
+
+/* 1) Simple Selector */
+
+p{
+    text-align: center;         /* element selector */    
+}
+
+#para{
+    color: blue;
+}
+
+.para{
+    text-align: left;
+    color: green;
+}
+
+
+
+/* 2) Combinator Selector */
+
+
+div p{                         /* descendent selector */
+    background-color: yellow;               /* div ke nadar jahan bhi p hoga wo yellow ho jayega */
+}
+
+
+div > p{                          /* child selector */
+    background-color: cyan;                 /* jo direct child hoga wo cyan ho jayega */
+}
+
+
+div + p{              /* adjacent sibling selector */
+    background-color: red;              /* BY THIS IF THERE IS P JUST AFTER DIV IS ENDING THEN THIS WILL WORK */
+} 
+
+
+div ~ p{                  /* general sibling selector */
+    background-color: red;            /* div ke baad series mein jitne bhi p honge wo sare general sibling honge */
+}
