@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1 style="font-size: 30px;color:gray">ONCLICK EVENT</h1>
+    
+    <h1 onclick="this.innerHTML='This is after click!'">My Page title</h1>
+    
+    <p>Nice caption goes here</p>
+    
+    <article class="first_article">
+        <h2>List of amazing fruits</h2>
+        <p>Must eat fruits</p>
+
+        <div class="wrapper-1">
+            <ul class="apple-list">
+                <li class="apple">apple</li>  
+                <li class="oranges">oranges</li>  
+                <li class="Avocadoes">Avocadoes</li>  
+            </ul>
+        </div>
+    </article>
+    
+    
+    <h1 style="font-size: 30px;color:gray">ONCLICK EVENT</h1>
+    <button onclick="displayDate()">The time is: </button>
+    <p id="demo"></p>
+    
+    <h1 style="font-size: 30px;color:gray">ONCHANGE EVENT</h1>
+    
+    <input type="text" id="firstName" onchange="UpperCase()">     <!-- onchange is used when we have to move out of it -->
+    <!-- like if we will click outside of input box then it will convert it into uppercase -->
+    
+    <h1 style="font-size: 30px;color:gray">ONMOUSEOVER AND ONMOUSEOUT EVENT</h1>
+    <div onmouseover="mOver(this)" onmouseout="mOut(this)" style="background-color: beige; height:80px; width:120px; margin-top: 30px;align-items: center; display: flex; justify-content: center;">Mouse Over me.</div>
+
+
+    <h1 style="font-size: 30px;color:gray">ONMOUSEDOWN AND ONMOUSEUP EVENT</h1>
+    <div onmousedown="mDown(this)" onmouseup="mUp(this)" style="background-color: beige; height:80px; width:120px; margin-top: 30px;align-items: center; display: flex; justify-content: center;">Double Tap me.</div>
+
+    <!--by onmousedown if we are clicking div then it will trigger -->
+
+    <script>
+        function displayDate(){
+            document.getElementById("demo").innerHTML = new Date();
+        }
+
+
+        function UpperCase(){
+            const x = document.getElementById("firstName");
+            x.value = x.value.toUpperCase();
+
+        }
+
+        function mOver(obj){
+            obj.innerHTML = "Thank You!";
+        }
+
+        function mOut(obj){
+            obj.innerHTML = "Come Back:(";
+        }
+
+
+        function mDown(obj){
+            obj.style.backgroundColor = "cyan";
+            obj.innerHTML="Relase Me!";
+        }
+
+        function mUp(obj){
+            obj.style.backgroundColor = "red";
+            obj.innerHTML="Thank You!";
+        }
+
+
+    </script>
+    
+</body>
+</html>
