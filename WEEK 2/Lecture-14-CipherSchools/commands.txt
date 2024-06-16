@@ -1,0 +1,3 @@
+
+
+OPEN TERMINAL IN THIS FOLDER ---> create-react-app application_name ( first-app ) ---> after installation ---> cd first-app ---> npm start 
