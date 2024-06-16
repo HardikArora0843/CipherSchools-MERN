@@ -1,0 +1,7 @@
+
+INSTALL NodeJs
+
+Go to terminal --> node -v --> npm -v --> npm -g i create-react-app
+
+BY THIS, REACT APPLICATION WILL BE INSTALLED GLOBALY ON MACHINE
+
