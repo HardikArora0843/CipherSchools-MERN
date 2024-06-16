@@ -1,0 +1,5 @@
+MERN - MongoDB, Express js, ReactJS, nodejs
+
+for FRONTEND - ReactJS
+For Backend - MongoDB, Express js, nodejs
+

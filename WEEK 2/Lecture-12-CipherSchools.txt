@@ -1,0 +1,66 @@
+Summary 
+
+A Javascript stack called MERN stack is used to make full stack web application deployment simpler and faster. The four technologies that make up the MERN Stack are Node.js, React, Express, and MongoDB.
+Its purpose is to simplify and expedite the procedure.
+
+These four potent technologies each play a significant role in the development of web applications by offering an end-to-end framework for the developers to work within.
+
+1. Cross-platform Document-Oriented Database MongoDB
+
+Every entry in MongoDB, a NoSQL database, is a document made up of key-value pairs that resemble JSON (JavaScript Object Notation) objects.
+Because of MongoDB's flexibility, users can design databases, tables, schema, and other things.
+ 
+A primary key-identified document is the fundamental building block of MongoDB. After installing MongoDB, users can also utilise Mongo shell. 
+Mongoshell offers a JavaScript interface that allows users to interact and perform actions (such as updating, deleting, and querying records).
+
+What makes MongoDB useful?
+1. Quick - Since it is a document-oriented database, indexing documents is simple. a quicker reaction as a result.
+2. Scalability: By splitting up large data into multiple machines, it can be managed.
+3. JavaScript Usage - The largest benefit of MongoDB is the use of JavaScript.
+4. Schema Less: Any kind of data in a different file.
+5. Easy Environment Setup - Setting up MongoDB is quite easy.
+6. Flexible Document Model: MongoDB offers a quicker document model that includes tables, schemas, columns, and SQL.
+7. The following types of data are stored in BSON (like JSON): a. Objects, Object Members, Arrays, Values, and Strings.
+  b. It's quite simple to use JSON syntax.
+  c. A variety of browsers are compatible with JOSN.
+  d. Data Sharing: It is simple to transfer data of any size or format (music, video).
+
+2. Backend Framework Express
+
+Express is a framework for Node.js. Express makes writing the back-end code simpler and easier than writing it using Node.js and generating a tonne of Node modules.
+Excellent web apps and APIs can be designed with the aid of Express.
+Because Express offers so many middlewares, writing code is simplified and made shorter.
+
+Why Make Use of Express? 
+1. Single-threaded and asynchronous.
+2. Quick, scalable, and effective.
+3. Has the largest Node.js community.
+4. Express's built-in router encourages the reuse of code.
+5. Sturdy API.
+
+3. Frontend Framework React
+
+A JavaScript package called React is used to create user interfaces. React's flexibility in handling dynamic data makes it a popular choice for single-page applications.
+React allows users to code in JavaScript and create UI components.
+
+Why Make Use of React?
+
+1. Virtual DOM - A virtual DOM object is a DOM object representation. In reality, virtual DOM is a duplicate of the original DOM. Next, the original DOM and this virtual DOM are examined for differences, and changes are made in accordance with the original DOM.
+2. JavaScript XML, or JSX, is an acronym. React uses this JavaScript extension for HTML and XML. simplifies and eases the writing of React components.
+Components: ReactJS is compatible with components. The fundamental units of a user interface are its components, each of which has a purpose and adds to the overall design. Additionally, these elements encourage reusability and simplify the entire online application.
+3. High Preferance - Features like Virtual DOM, JSX and Components make it much faster than the rest of the frameworks out there.
+4.  Developing Android/iOS Apps - Which React Native, you can easily code android-based or iOS-based apps, with just the knowledge of JavaScript and React.
+
+
+
+4. The JavaScript Runtime Environment (Node.js)
+
+A JavaScript runtime environment is provided by Node.js, enabling users to run their code on the server (outside the browser). The user can select from thousands of free packages (node modules) to download using the Node package management, or npm. 
+
+What makes Node.js useful?
+
+1. The JavaScript Runtime Environment is open-source.
+2. Single Threading - Utilises a model that is only threaded.
+3. Streaming Data.
+4. Quick-Code execution: Node.js is built on the JavaScript engine found in Google Chrome.
+5. Extremely adaptable.
